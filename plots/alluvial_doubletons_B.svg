@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="847"
+   height="520"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="alluvial_doubletons_B.svg">
+  <metadata
+     id="metadata538">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs536" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1877"
+     inkscape:window-height="1022"
+     id="namedview534"
+     showgrid="false"
+     inkscape:zoom="1.4403778"
+     inkscape:cx="423.5"
+     inkscape:cy="260"
+     inkscape:window-x="43"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     class="link"
+     d="m 566.33333,161.94618 c 137.83334,0 137.83334,0 275.66667,0"
+     style="fill:none;stroke:#69bf69;stroke-width:124.56400299;stroke-opacity:0.40000001"
+     id="path8"
+     inkscape:connector-curvature="0">
+    <title
+       id="title10">256</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,66.70289 c 137.83333,0 137.83333,95 275.66666,95"
+     style="fill:none;stroke:#bf8f69;stroke-width:124.07700348;stroke-opacity:0.4"
+     id="path12"
+     inkscape:connector-curvature="0">
+    <title
+       id="title14">255</title>
+  </path>
+  <path
+     class="link"
+     d="m 566.33333,263.64081 c 137.83334,0 137.83334,27.51678 275.66667,27.51678"
+     style="fill:none;stroke:#42bcca;stroke-width:78.82550049;stroke-opacity:0.40000001"
+     id="path20"
+     inkscape:connector-curvature="0">
+    <title
+       id="title22">162</title>
+  </path>
+  <path
+     class="link"
+     d="m 566.33333,330.78846 c 137.83334,0 137.83334,49.68121 275.66667,49.68121"
+     style="fill:none;stroke:#babf69;stroke-width:55.46979904;stroke-opacity:0.40000001"
+     id="path24"
+     inkscape:connector-curvature="0">
+    <title
+       id="title26">114</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,164.77336 c 137.83333,0 137.83333,85 275.66666,85"
+     style="fill:none;stroke:#bf69bf;stroke-width:52.06380081;stroke-opacity:0.40000001"
+     id="path28"
+     inkscape:connector-curvature="0">
+    <title
+       id="title30">107</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,232.70121 c 137.83333,0 137.83333,65 275.66666,65"
+     style="fill:none;stroke:#6992bf;stroke-width:28.2215004;stroke-opacity:0.40000001"
+     id="path36"
+     inkscape:connector-curvature="0">
+    <title
+       id="title38">58</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,332.89417 c 137.83333,0 137.83333,-215.58725 275.66667,-215.58725"
+     style="fill:none;stroke:#006f22;stroke-width:22.86910057;stroke-opacity:0.40000001"
+     id="path40"
+     inkscape:connector-curvature="0">
+    <title
+       id="title42">47</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,351.62739 c 137.83333,0 137.83333,-168.12081 275.66667,-168.12081"
+     style="fill:none;stroke:#006f22;stroke-width:14.59729958;stroke-opacity:0.40000001"
+     id="path48"
+     inkscape:connector-curvature="0">
+    <title
+       id="title50">30</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,278.00323 c 137.83333,0 137.83333,45 275.66666,45"
+     style="fill:none;stroke:#80bf69;stroke-width:14.59729958;stroke-opacity:0.40000001"
+     id="path52"
+     inkscape:connector-curvature="0">
+    <title
+       id="title54">30</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,355.25155 c 137.83333,0 137.83333,42.24832 275.66666,42.24832"
+     style="fill:none;stroke:#b5bf69;stroke-width:13.62419987;stroke-opacity:0.4"
+     id="path56"
+     inkscape:connector-curvature="0">
+    <title
+       id="title58">28</title>
+  </path>
+  <path
+     class="link"
+     d="M 566.33333,404.31195 C 704.16667,404.31195 704.16667,337.869 842,337.869"
+     style="fill:none;stroke:#42bcca;stroke-width:9.73153973;stroke-opacity:0.40000001"
+     id="path64"
+     inkscape:connector-curvature="0">
+    <title
+       id="title66">20</title>
+  </path>
+  <path
+     class="link"
+     d="M 566.33333,372.90256 C 704.16667,372.90256 704.16667,228.60725 842,228.60725"
+     style="fill:none;stroke:#69bf69;stroke-width:8.75839043;stroke-opacity:0.40000001"
+     id="path72"
+     inkscape:connector-curvature="0">
+    <title
+       id="title74">18</title>
+  </path>
+  <path
+     class="link"
+     d="M 566.33333,395.06698 C 704.16667,395.06698 704.16667,237.36564 842,237.36564"
+     style="fill:none;stroke:#69bf69;stroke-width:8.75839043;stroke-opacity:0.40000001"
+     id="path76"
+     inkscape:connector-curvature="0">
+    <title
+       id="title78">18</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,204.69786 c 137.83333,0 137.83333,75 275.66666,75"
+     style="fill:none;stroke:#8f69bf;stroke-width:7.78523016;stroke-opacity:0.4"
+     id="path80"
+     inkscape:connector-curvature="0">
+    <title
+       id="title82">16</title>
+  </path>
+  <path
+     class="link"
+     d="M 285.66667,450.06699 C 423.5,450.06699 423.5,347.33209 561.33333,347.33209"
+     style="fill:none;stroke:#b569bf;stroke-width:7.78523016;stroke-opacity:0.4"
+     id="path84"
+     inkscape:connector-curvature="0">
+    <title
+       id="title86">16</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,363.06195 c 137.83333,0 137.83333,-119.89933 275.66667,-119.89933"
+     style="fill:none;stroke:#006f22;stroke-width:7.2986598;stroke-opacity:0.40000001"
+     id="path92"
+     inkscape:connector-curvature="0">
+    <title
+       id="title94">15</title>
+  </path>
+  <path
+     class="link"
+     d="M 285.66667,467.60893 C 423.5,467.60893 423.5,354.87403 561.33333,354.87403"
+     style="fill:none;stroke:#69bf69;stroke-width:7.2986598;stroke-opacity:0.4"
+     id="path96"
+     inkscape:connector-curvature="0">
+    <title
+       id="title98">15</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,397.60893 c 137.83333,0 137.83333,70 275.66667,70"
+     style="fill:none;stroke:#006f22;stroke-width:7.2986598;stroke-opacity:0.40000001"
+     id="path100"
+     inkscape:connector-curvature="0">
+    <title
+       id="title102">15</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,390.55356 c 137.83333,0 137.83333,60 275.66667,60"
+     style="fill:none;stroke:#006f22;stroke-width:6.81207991;stroke-opacity:0.40000001"
+     id="path104"
+     inkscape:connector-curvature="0">
+    <title
+       id="title106">14</title>
+  </path>
+  <path
+     class="link"
+     d="M 285.66667,335.52 C 423.5,335.52 423.5,371.44282 561.33333,371.44282"
+     style="fill:none;stroke:#69a2bf;stroke-width:5.83893013;stroke-opacity:0.4"
+     id="path108"
+     inkscape:connector-curvature="0">
+    <title
+       id="title110">12</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,377.17269 c 137.83333,0 137.83333,-17.29866 275.66667,-17.29866"
+     style="fill:none;stroke:#006f22;stroke-width:4.37918997;stroke-opacity:0.40000001"
+     id="path112"
+     inkscape:connector-curvature="0">
+    <title
+       id="title114">9</title>
+  </path>
+  <path
+     class="link"
+     d="M 285.66667,421.79517 C 423.5,421.79517 423.5,378.74148 561.33333,378.74148"
+     style="fill:none;stroke:#697cbf;stroke-width:3.89262009;stroke-opacity:0.4"
+     id="path120"
+     inkscape:connector-curvature="0">
+    <title
+       id="title122">8</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,369.14417 c 137.83333,0 137.83333,-85.78859 275.66667,-85.78859"
+     style="fill:none;stroke:#006f22;stroke-width:3.89262009;stroke-opacity:0.40000001"
+     id="path124"
+     inkscape:connector-curvature="0">
+    <title
+       id="title126">8</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,258.75826 c 137.83333,0 137.83333,55 275.66666,55"
+     style="fill:none;stroke:#69bf8f;stroke-width:3.89262009;stroke-opacity:0.4"
+     id="path128"
+     inkscape:connector-curvature="0">
+    <title
+       id="title130">8</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,321.14081 c 137.83333,0 137.83333,15 275.66666,15"
+     style="fill:none;stroke:#7cbf69;stroke-width:2.91946006;stroke-opacity:0.4"
+     id="path136"
+     inkscape:connector-curvature="0">
+    <title
+       id="title138">6</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,373.28007 c 137.83333,0 137.83333,2.29866 275.66666,2.29866"
+     style="fill:none;stroke:#a269bf;stroke-width:2.43288994;stroke-opacity:0.4"
+     id="path140"
+     inkscape:connector-curvature="0">
+    <title
+       id="title142">5</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,383.98477 c 137.83333,0 137.83333,38.54027 275.66667,38.54027"
+     style="fill:none;stroke:#006f22;stroke-width:2.43288994;stroke-opacity:0.40000001"
+     id="path144"
+     inkscape:connector-curvature="0">
+    <title
+       id="title146">5</title>
+  </path>
+  <path
+     class="link"
+     d="m 566.33333,378.49819 c 137.83334,0 137.83334,-46.71141 275.66667,-46.71141"
+     style="fill:none;stroke:#42bcca;stroke-width:2.43288994;stroke-opacity:0.40000001"
+     id="path148"
+     inkscape:connector-curvature="0">
+    <title
+       id="title150">5</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,296.51833 c 137.83333,0 137.83333,35 275.66666,35"
+     style="fill:none;stroke:#bf6987;stroke-width:2.43288994;stroke-opacity:0.40000001"
+     id="path152"
+     inkscape:connector-curvature="0">
+    <title
+       id="title154">5</title>
+  </path>
+  <path
+     class="link"
+     d="M 285.66667,408.63242 C 423.5,408.63242 423.5,339.79014 561.33333,339.79014"
+     style="fill:none;stroke:#8fbf69;stroke-width:2.43288994;stroke-opacity:0.4"
+     id="path156"
+     inkscape:connector-curvature="0">
+    <title
+       id="title158">5</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,434.95792 c 137.83333,0 137.83333,-92.7349 275.66666,-92.7349"
+     style="fill:none;stroke:#bfb569;stroke-width:2.43288994;stroke-opacity:0.4"
+     id="path160"
+     inkscape:connector-curvature="0">
+    <title
+       id="title162">5</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,396.44282 c 137.83333,0 137.83333,8.84229 275.66666,8.84229"
+     style="fill:none;stroke:#7c69bf;stroke-width:1.94631004;stroke-opacity:0.4"
+     id="path168"
+     inkscape:connector-curvature="0">
+    <title
+       id="title170">4</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,402.23141 c 137.83333,0 137.83333,80 275.66667,80"
+     style="fill:none;stroke:#006f22;stroke-width:1.94631004;stroke-opacity:0.40000001"
+     id="path172"
+     inkscape:connector-curvature="0">
+    <title
+       id="title174">4</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,308.70792 c 137.83333,0 137.83333,25 275.66666,25"
+     style="fill:none;stroke:#6969bf;stroke-width:1.94631004;stroke-opacity:0.4"
+     id="path180"
+     inkscape:connector-curvature="0">
+    <title
+       id="title182">4</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,374.00994 c 137.83333,0 137.83333,-36.54363 275.66667,-36.54363"
+     style="fill:none;stroke:#006f22;stroke-width:1.94631004;stroke-opacity:0.40000001"
+     id="path184"
+     inkscape:connector-curvature="0">
+    <title
+       id="title186">4</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,386.17437 c 137.83333,0 137.83333,49.02684 275.66667,49.02684"
+     style="fill:none;stroke:#006f22;stroke-width:1.94631004;stroke-opacity:0.40000001"
+     id="path188"
+     inkscape:connector-curvature="0">
+    <title
+       id="title190">4</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,482.23141 c 137.83333,0 137.83333,-75 275.66666,-75"
+     style="fill:none;stroke:#69bfb5;stroke-width:1.94631004;stroke-opacity:0.4"
+     id="path192"
+     inkscape:connector-curvature="0">
+    <title
+       id="title194">4</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,382.03846 c 137.83333,0 137.83333,27.08054 275.66667,27.08054"
+     style="fill:none;stroke:#006f22;stroke-width:1.45973003;stroke-opacity:0.40000001"
+     id="path196"
+     inkscape:connector-curvature="0">
+    <title
+       id="title198">3</title>
+  </path>
+  <path
+     class="link"
+     d="M 285.66667,384.98309 C 423.5,384.98309 423.5,338.08712 561.33333,338.08712"
+     style="fill:none;stroke:#bf69b5;stroke-width:1;stroke-opacity:0.4"
+     id="path216"
+     inkscape:connector-curvature="0">
+    <title
+       id="title218">2</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,493.69115 c 137.83333,0 137.83333,-85 275.66666,-85"
+     style="fill:none;stroke:#69bfa2;stroke-width:1;stroke-opacity:0.4"
+     id="path220"
+     inkscape:connector-curvature="0">
+    <title
+       id="title222">2</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,372.55021 c 137.83333,0 137.83333,-50.43625 275.66667,-50.43625"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path228"
+     inkscape:connector-curvature="0">
+    <title
+       id="title230">2</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,403.69115 c 137.83333,0 137.83333,90 275.66667,90"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path232"
+     inkscape:connector-curvature="0">
+    <title
+       id="title234">2</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,379.84886 c 137.83333,0 137.83333,-5.83892 275.66667,-5.83892"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path236"
+     inkscape:connector-curvature="0">
+    <title
+       id="title238">2</title>
+  </path>
+  <path
+     class="link"
+     d="m 566.33333,380.20121 c 137.83334,0 137.83334,28.48994 275.66667,28.48994"
+     style="fill:none;stroke:#babf69;stroke-width:1;stroke-opacity:0.40000001"
+     id="path244"
+     inkscape:connector-curvature="0">
+    <title
+       id="title246">2</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,380.57873 c 137.83333,0 137.83333,4.64765 275.66667,4.64765"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path248"
+     inkscape:connector-curvature="0">
+    <title
+       id="title250">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,371.82034 c 137.83333,0 137.83333,-62.38255 275.66667,-62.38255"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path252"
+     inkscape:connector-curvature="0">
+    <title
+       id="title254">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,359.16933 c 137.83333,0 137.83333,-150.82214 275.66667,-150.82214"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path256"
+     inkscape:connector-curvature="0">
+    <title
+       id="title258">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,366.95457 c 137.83333,0 137.83333,-106.49329 275.66667,-106.49329"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path260"
+     inkscape:connector-curvature="0">
+    <title
+       id="title262">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,404.42101 c 137.83333,0 137.83333,100 275.66667,100"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path264"
+     inkscape:connector-curvature="0">
+    <title
+       id="title266">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,371.33376 c 137.83333,0 137.83333,-73.84228 275.66667,-73.84228"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path268"
+     inkscape:connector-curvature="0">
+    <title
+       id="title270">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 285.66667,504.42101 c 137.83333,0 137.83333,-95 275.66666,-95"
+     style="fill:none;stroke:#69bf7c;stroke-width:1;stroke-opacity:0.4"
+     id="path272"
+     inkscape:connector-curvature="0">
+    <title
+       id="title274">1</title>
+  </path>
+  <path
+     class="link"
+     d="m 5,381.06531 c 137.83333,0 137.83333,16.10738 275.66667,16.10738"
+     style="fill:none;stroke:#006f22;stroke-width:1;stroke-opacity:0.40000001"
+     id="path280"
+     inkscape:connector-curvature="0">
+    <title
+       id="title282">1</title>
+  </path>
+  <g
+     id="g5748"
+     style="stroke:#5a53eb;stroke-opacity:0.40000007">
+    <path
+       inkscape:connector-curvature="0"
+       id="path16"
+       style="fill:none;stroke:#5a53eb;stroke-width:101.20800018;stroke-opacity:0.40000007"
+       d="m 5,155.26833 c 137.83333,0 137.83333,-100 275.66667,-100"
+       class="link">
+      <title
+         id="title18">208</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path32"
+       style="fill:none;stroke:#5a53eb;stroke-width:37.46640015;stroke-opacity:0.40000007"
+       d="m 5,224.60558 c 137.83333,0 137.83333,-67.13088 275.66667,-67.13088"
+       class="link">
+      <title
+         id="title34">77</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path44"
+       style="fill:none;stroke:#5a53eb;stroke-width:20.92280006;stroke-opacity:0.40000007"
+       d="m 5,261.09886 c 137.83333,0 137.83333,-32.04698 275.66667,-32.04698"
+       class="link">
+      <title
+         id="title46">43</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path60"
+       style="fill:none;stroke:#5a53eb;stroke-width:10.70470047;stroke-opacity:0.40000007"
+       d="m 5,280.31866 c 137.83333,0 137.83333,-4.26174 275.66667,-4.26174"
+       class="link">
+      <title
+         id="title62">22</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path68"
+       style="fill:none;stroke:#5a53eb;stroke-width:9.24497032;stroke-opacity:0.40000007"
+       d="m 5,299.53846 c 137.83333,0 137.83333,53.52349 275.66667,53.52349"
+       class="link">
+      <title
+         id="title70">19</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path88"
+       style="fill:none;stroke:#5a53eb;stroke-width:7.2986598;stroke-opacity:0.40000007"
+       d="m 5,246.98813 c 137.83333,0 137.83333,-42.53356 275.66667,-42.53356"
+       class="link">
+      <title
+         id="title90">15</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path116"
+       style="fill:none;stroke:#5a53eb;stroke-width:3.89262009;stroke-opacity:0.40000007"
+       d="m 5,292.96967 c 137.83333,0 137.83333,41.57718 275.66667,41.57718"
+       class="link">
+      <title
+         id="title118">8</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path132"
+       style="fill:none;stroke:#5a53eb;stroke-width:3.40603995;stroke-opacity:0.40000007"
+       d="m 5,273.26329 c 137.83333,0 137.83333,-14.74832 275.66667,-14.74832"
+       class="link">
+      <title
+         id="title134">7</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path164"
+       style="fill:none;stroke:#5a53eb;stroke-width:1.94631004;stroke-opacity:0.40000007"
+       d="m 5,290.05021 c 137.83333,0 137.83333,30.60402 275.66667,30.60402"
+       class="link">
+      <title
+         id="title166">4</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path176"
+       style="fill:none;stroke:#5a53eb;stroke-width:1.94631004;stroke-opacity:0.40000007"
+       d="m 5,286.64417 c 137.83333,0 137.83333,9.63087 275.66667,9.63087"
+       class="link">
+      <title
+         id="title178">4</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path200"
+       style="fill:none;stroke:#5a53eb;stroke-width:1.45973003;stroke-opacity:0.40000007"
+       d="m 5,304.89081 c 137.83333,0 137.83333,67.90268 275.66667,67.90268"
+       class="link">
+      <title
+         id="title202">3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path204"
+       style="fill:none;stroke:#5a53eb;stroke-width:1.45973003;stroke-opacity:0.40000007"
+       d="m 5,306.83712 c 137.83333,0 137.83333,89.36241 275.66667,89.36241"
+       class="link">
+      <title
+         id="title206">3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path208"
+       style="fill:none;stroke:#5a53eb;stroke-width:1.45973003;stroke-opacity:0.40000007"
+       d="m 5,309.27 c 137.83333,0 137.83333,111.30873 275.66667,111.30873"
+       class="link">
+      <title
+         id="title210">3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path212"
+       style="fill:none;stroke:#5a53eb;stroke-width:1.45973003;stroke-opacity:0.40000007"
+       d="m 5,288.34719 c 137.83333,0 137.83333,20.11745 275.66667,20.11745"
+       class="link">
+      <title
+         id="title214">3</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path224"
+       style="fill:none;stroke:#5a53eb;stroke-width:1;stroke-opacity:0.40000007"
+       d="m 5,308.05356 c 137.83333,0 137.83333,99.849 275.66667,99.849"
+       class="link">
+      <title
+         id="title226">2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path240"
+       style="fill:none;stroke:#5a53eb;stroke-width:1;stroke-opacity:0.40000007"
+       d="m 5,310.97302 c 137.83333,0 137.83333,135.68792 275.66667,135.68792"
+       class="link">
+      <title
+         id="title242">2</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path276"
+       style="fill:none;stroke:#5a53eb;stroke-width:1;stroke-opacity:0.40000007"
+       d="m 5,310.24316 c 137.83333,0 137.83333,123.74161 275.66667,123.74161"
+       class="link">
+      <title
+         id="title278">1</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="path284"
+       style="fill:none;stroke:#5a53eb;stroke-width:1;stroke-opacity:0.40000007"
+       d="m 5,305.86396 c 137.83333,0 137.83333,78.87584 275.66667,78.87584"
+       class="link">
+      <title
+         id="title286">1</title>
+    </path>
+  </g>
+  <path
+     class="link"
+     d="m 566.33333,409.42101 c 137.83334,0 137.83334,0 275.66667,0"
+     style="fill:none;stroke:#babf69;stroke-width:1;stroke-opacity:0.40000001"
+     id="path288"
+     inkscape:connector-curvature="0">
+    <title
+       id="title290">1</title>
+  </path>
+  <rect
+     y="-208.59048"
+     x="280.66666"
+     id="rect296"
+     width="5"
+     height="7.7852349"
+     transform="scale(1,-1)">
+    <title
+       id="title298">Anthomyidae
+16</title>
+  </rect>
+  <text
+     id="text300"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="3.8926175"
+     y="202.47169"
+     x="291.66666">Anthomyidae</text>
+  <rect
+     y="-285.30188"
+     x="280.66666"
+     id="rect304"
+     width="5"
+     height="14.597316"
+     transform="scale(1,-1)">
+    <title
+       id="title306">Apidae
+30</title>
+  </rect>
+  <text
+     id="text308"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="7.2986579"
+     y="269.0939"
+     x="291.66666">Apidae</text>
+  <rect
+     y="-128.74149"
+     x="280.66666"
+     id="rect312"
+     width="5"
+     height="124.07718"
+     transform="scale(1,-1)">
+    <title
+       id="title314">apimel
+255</title>
+  </rect>
+  <text
+     id="text316"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="62.038589"
+     y="-51.686287"
+     x="291.66666">apimel</text>
+  <rect
+     y="-453.95959"
+     x="280.66666"
+     id="rect320"
+     width="5"
+     height="7.7852349"
+     transform="scale(1,-1)">
+    <title
+       id="title322">Bibionidae
+16</title>
+  </rect>
+  <text
+     id="text324"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="3.8926175"
+     y="450.02686"
+     x="291.66666">Bibionidae</text>
+  <rect
+     y="-338.43948"
+     x="280.66666"
+     id="rect328"
+     width="5"
+     height="5.8389263"
+     transform="scale(1,-1)">
+    <title
+       id="title330">Calliphoridae
+12</title>
+  </rect>
+  <text
+     id="text332"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="2.9194632"
+     y="335.50336"
+     x="291.66666">Calliphoridae</text>
+  <rect
+     y="-397.41599"
+     x="280.66666"
+     id="rect336"
+     width="5"
+     height="1.9463087"
+     transform="scale(1,-1)">
+    <title
+       id="title338">Coccinellidae
+4</title>
+  </rect>
+  <text
+     id="text340"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="0.97315437"
+     y="402.37054"
+     x="291.66666">Coccinellidae</text>
+  <rect
+     y="-260.70456"
+     x="280.66666"
+     id="rect344"
+     width="5"
+     height="3.8926175"
+     transform="scale(1,-1)">
+    <title
+       id="title346">Colletidae
+8</title>
+  </rect>
+  <text
+     id="text348"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.9463087"
+     y="262.73969"
+     x="291.66666">Colletidae</text>
+  <rect
+     y="-246.81195"
+     x="280.66666"
+     id="rect352"
+     width="5"
+     height="28.221476"
+     transform="scale(1,-1)">
+    <title
+       id="title354">Halictidae
+58</title>
+  </rect>
+  <text
+     id="text356"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="14.110738"
+     y="212.22487"
+     x="291.66666">Halictidae</text>
+  <rect
+     y="-471.25827"
+     x="280.66666"
+     id="rect360"
+     width="5"
+     height="7.2986579"
+     transform="scale(1,-1)">
+    <title
+       id="title362">Hesperidae
+15</title>
+  </rect>
+  <text
+     id="text364"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="3.6493289"
+     y="465.99826"
+     x="291.66666">Hesperidae</text>
+  <rect
+     y="-322.60052"
+     x="280.66666"
+     id="rect368"
+     width="5"
+     height="2.9194632"
+     transform="scale(1,-1)">
+    <title
+       id="title370">Lycenidae
+6</title>
+  </rect>
+  <text
+     id="text372"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.4597316"
+     y="323.78043"
+     x="291.66666">Lycenidae</text>
+  <rect
+     y="-436.17438"
+     x="280.66666"
+     id="rect376"
+     width="5"
+     height="2.4328859"
+     transform="scale(1,-1)">
+    <title
+       id="title378">Megachilidae
+5</title>
+  </rect>
+  <text
+     id="text380"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.2164429"
+     y="438.08411"
+     x="291.66666">Megachilidae</text>
+  <rect
+     y="-374.49652"
+     x="280.66666"
+     id="rect384"
+     width="5"
+     height="2.4328859"
+     transform="scale(1,-1)">
+    <title
+       id="title386">Muscidae
+5</title>
+  </rect>
+  <text
+     id="text388"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.2164429"
+     y="378.59229"
+     x="291.66666">Muscidae</text>
+  <rect
+     y="-483.20456"
+     x="280.66666"
+     id="rect392"
+     width="5"
+     height="1.9463087"
+     transform="scale(1,-1)">
+    <title
+       id="title394">Nabidae
+4</title>
+  </rect>
+  <text
+     id="text396"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="0.97315437"
+     y="488.03021"
+     x="291.66666">Nabidae</text>
+  <rect
+     y="-409.84888"
+     x="280.66666"
+     id="rect400"
+     width="5"
+     height="2.4328859"
+     transform="scale(1,-1)">
+    <title
+       id="title402">Nymphalidae
+5</title>
+  </rect>
+  <text
+     id="text404"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.2164429"
+     y="411.75861"
+     x="291.66666">Nymphalidae</text>
+  <rect
+     y="-297.73477"
+     x="280.66666"
+     id="rect408"
+     width="5"
+     height="2.4328859"
+     transform="scale(1,-1)">
+    <title
+       id="title410">Pieridae
+5</title>
+  </rect>
+  <text
+     id="text412"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.2164429"
+     y="301.83057"
+     x="291.66666">Pieridae</text>
+  <rect
+     y="-494.17773"
+     x="280.66666"
+     id="rect416"
+     width="5"
+     height="0.97315437"
+     transform="scale(1,-1)">
+    <title
+       id="title418">Reduviidae
+2</title>
+  </rect>
+  <text
+     id="text420"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="0.48657718"
+     y="500.4631"
+     x="291.66666">Reduviidae</text>
+  <rect
+     y="-423.74149"
+     x="280.66666"
+     id="rect424"
+     width="5"
+     height="3.8926175"
+     transform="scale(1,-1)">
+    <title
+       id="title426">Sarcophagidae
+8</title>
+  </rect>
+  <text
+     id="text428"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="1.9463087"
+     y="423.59592"
+     x="291.66666">Sarcophagidae</text>
+  <rect
+     y="-385.46967"
+     x="280.66666"
+     id="rect432"
+     width="5"
+     height="0.97315437"
+     transform="scale(1,-1)">
+    <title
+       id="title434">Sciaridae
+2</title>
+  </rect>
+  <text
+     id="text436"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="0.48657718"
+     y="391.88397"
+     x="291.66666">Sciaridae</text>
+  <rect
+     y="-504.66431"
+     x="280.66666"
+     id="rect440"
+     width="5"
+     height="0.48657718"
+     transform="scale(1,-1)">
+    <title
+       id="title442">Scoliidae
+1</title>
+  </rect>
+  <text
+     id="text444"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="0.24328859"
+     y="511.80847"
+     x="291.66666">Scoliidae</text>
+  <rect
+     y="-309.68109"
+     x="280.66666"
+     id="rect448"
+     width="5"
+     height="1.9463087"
+     transform="scale(1,-1)">
+    <title
+       id="title450">Stratiomyidae
+4</title>
+  </rect>
+  <text
+     id="text452"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="0.97315437"
+     y="312.45496"
+     x="291.66666">Stratiomyidae</text>
+  <rect
+     y="-190.80524"
+     x="280.66666"
+     id="rect456"
+     width="5"
+     height="52.063759"
+     transform="scale(1,-1)">
+    <title
+       id="title458">Syrphidae
+107</title>
+  </rect>
+  <text
+     id="text460"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="26.031879"
+     y="118.40298"
+     x="291.66666">Syrphidae</text>
+  <rect
+     y="-362.06363"
+     x="280.66666"
+     id="rect464"
+     width="5"
+     height="13.624161"
+     transform="scale(1,-1)">
+    <title
+       id="title466">Vespidae
+28</title>
+  </rect>
+  <text
+     id="text468"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="6.8120804"
+     y="347.31537"
+     x="291.66666">Vespidae</text>
+  <rect
+     y="-409.66431"
+     x="561.33331"
+     id="rect472"
+     width="5"
+     height="18.976511"
+     transform="scale(1,-1)">
+    <title
+       id="title474">depredador
+39</title>
+  </rect>
+  <text
+     id="text476"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+     dy="9.4882555"
+     y="386.88754"
+     x="555.33331">depredador</text>
+  <rect
+     y="-380.68777"
+     x="561.33331"
+     id="rect480"
+     width="5"
+     height="12.16443"
+     transform="scale(1,-1)">
+    <title
+       id="title482">nectarivoro
+25</title>
+  </rect>
+  <text
+     id="text484"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+     dy="6.0822148"
+     y="370.18625"
+     x="555.33331">nectarivoro</text>
+  <rect
+     y="-358.52335"
+     x="561.33331"
+     id="rect488"
+     width="5"
+     height="258.85907"
+     transform="scale(1,-1)">
+    <title
+       id="title490">polinizador
+532</title>
+  </rect>
+  <text
+     id="text492"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+     dy="129.42953"
+     y="-24.07724"
+     x="555.33331">polinizador</text>
+  <rect
+     y="-404.66431"
+     x="0"
+     id="rect496"
+     width="5"
+     height="83.204697"
+     transform="scale(1,-1)">
+    <title
+       id="title498">areanatural
+171</title>
+  </rect>
+  <text
+     id="text500"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="41.602348"
+     y="287.60236"
+     x="11">areanatural</text>
+  <rect
+     y="-311.45959"
+     x="0"
+     id="rect504"
+     width="5"
+     height="206.7953"
+     transform="scale(1,-1)">
+    <title
+       id="title506">huerto
+425</title>
+  </rect>
+  <text
+     id="text508"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:start"
+     dy="103.39765"
+     y="9.0117645"
+     x="11">huerto</text>
+  <rect
+     y="-342.73477"
+     x="842"
+     id="rect512"
+     style="fill:#666666"
+     width="5"
+     height="90.989929"
+     transform="scale(1,-1)">
+    <title
+       id="title514">heladas
+187</title>
+  </rect>
+  <text
+     id="text516"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+     dy="45.494965"
+     y="213.995"
+     x="836">heladas</text>
+  <rect
+     y="-409.66431"
+     x="842"
+     id="rect520"
+     style="fill:#666666"
+     width="5"
+     height="56.929531"
+     transform="scale(1,-1)">
+    <title
+       id="title522">lluvias
+117</title>
+  </rect>
+  <text
+     id="text524"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+     dy="28.464766"
+     y="78.944672"
+     x="836">lluvias</text>
+  <rect
+     y="-241.74484"
+     x="842"
+     id="rect528"
+     style="fill:#666666"
+     width="5"
+     height="142.08054"
+     transform="scale(1,-1)">
+    <title
+       id="title530">secas
+292</title>
+  </rect>
+  <text
+     id="text532"
+     style="font-size:11px;font-family:Arial, Helvetica;text-anchor:end"
+     dy="71.040268"
+     y="289.43961"
+     x="836">secas</text>
+</svg>
